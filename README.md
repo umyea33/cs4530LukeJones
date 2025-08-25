@@ -1,2 +1,5 @@
 # cs4530LukeJones
-Personal repo for CS 4530.
+
+Luke Jones
+u1358739
+umyea33
